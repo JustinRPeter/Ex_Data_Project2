@@ -1,5 +1,7 @@
 #Coursera Exploratory data analysis. Project 2.
 
+#Plot 1
+
 #Justin Peter. 21 June 2015.
 
 #---Clean up the workspace.
